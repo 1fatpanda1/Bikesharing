@@ -14,6 +14,7 @@ Saturday was the busiest day between 9am and around 8pm. During the weekday, we 
 ![heatmap.png](https://github.com/1fatpanda1/Bikesharing/blob/main/Resources/heatmapbygen.png)
 
 Overall, the vast majority of rides were working male subscribers.
+
 ![overall.png](https://github.com/1fatpanda1/Bikesharing/blob/main/Resources/heatmap%20of%20type.png)
 
 ## Summary
