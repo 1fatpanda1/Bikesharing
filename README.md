@@ -24,4 +24,4 @@ Overall, the vast majority of rides were working male subscribers. The vast majo
 
 
 Tableau Link
-https://public.tableau.com/views/DBC14Challenge/BikesharingAnalysis
+[link to dashboard](https://public.tableau.com/views/DBC14Challenge/BikesharingAnalysis)
