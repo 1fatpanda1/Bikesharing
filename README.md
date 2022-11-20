@@ -22,6 +22,4 @@ Overall, the vast majority of rides were working male subscribers.
 Overall, the vast majority of rides were working male subscribers. The vast majority of trips were around 5 minutes. Saturday was the busiest day between 9am and around 8pm. Visualizations to consider would be a heatmap of the week sorting by customer type and gender. A pie chart of customers by usertype and gender would be helpful as well.
 
 
-
-Tableau Link
 [link to dashboard](https://public.tableau.com/views/DBC14Challenge/BikesharingAnalysis)
